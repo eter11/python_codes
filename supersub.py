@@ -1,5 +1,7 @@
 # creating n arrays and checking if array A is a Subset of other arrays
 
+'''this one is just in coding, its not been complleted yet'''
+
 #creating array setA
 setA = int(input("input set A elements"))
 setA = []
