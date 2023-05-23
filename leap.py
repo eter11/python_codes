@@ -1,3 +1,5 @@
+#checking  if a year uploaded is a leap year or not :
+
 print("Enter the Year to find if its a Leap year or not:   ")
 
 
