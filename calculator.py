@@ -1,11 +1,4 @@
-# while True:
-#     a=float(input('enter first number:'))
-#     b=float(input('enter second number:'))
-#     c= a + b
-#     print(f"the sum of {a} and {b} is :{c}")
-#     q=input("should we quit?Y/N")
-#     if q=='Y' or q=='y':
-#         break
+# a simple calculator :-)
 
 cont = True
 while cont:
